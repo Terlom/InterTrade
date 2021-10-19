@@ -1,0 +1,14 @@
+<svg width="26" height="18" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1771 -2659)">
+<g id="Group 3">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(1771 2659)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 24.6107 0.732239C 25.587 1.70856 25.587 3.29156 24.6107 4.26788L 12.1922 16.6863C 11.6854 17.1932 11.0152 17.4368 10.3513 17.4175C 9.68732 17.4368 9.01715 17.1932 8.51031 16.6863L 0.732239 8.90826C -0.24408 7.93195 -0.24408 6.34894 0.732239 5.37262C 1.70844 4.3963 3.29144 4.3963 4.26776 5.37262L 10.3513 11.4564L 21.0751 0.732239C 22.0515 -0.24408 23.6345 -0.24408 24.6107 0.732239Z"/>
+</defs>
+</svg>
